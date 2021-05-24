@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665090679840",
+    "project_id": "flash-chat-de54b",
+    "storage_bucket": "flash-chat-de54b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665090679840:android:541fe078a89188d4c8c845",
+        "android_client_info": {
+          "package_name": "kemalkalandarov.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665090679840-f4in5vut8j500mu74r5c88bvr2ukpsq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADeoYiNMwbXnJ2XJgwzzH_kA2AwhIfXUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665090679840-f4in5vut8j500mu74r5c88bvr2ukpsq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
